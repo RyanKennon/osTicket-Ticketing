@@ -2,7 +2,7 @@
   <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/daa445be-b28b-4116-8795-886f90dbb7ea" />
 </p>
 
-# osTicket: Ticket Lifecycle
+# osTicket: Ticket Lifecycle Management
 
 This project focuses on the full lifecycle of working support tickets within a help desk environment. I created new help tickets to simulate common user issues, triaged them based on urgency and category, and then worked each ticket through troubleshooting and resolution until completion. This lab demonstrates practical experience with ticket management, prioritization, communication, and end-to-end support workflow execution—key skills for IT support and service desk roles.
 
